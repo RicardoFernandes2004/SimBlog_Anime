@@ -4,27 +4,124 @@
     box-sizing: border-box;
 }
 
-.A {
-    width: 100px;
-    position: relative;
-    font-size: 128px;
-    font-family: 'Just Me Again Down Here';
-    background: linear-gradient(180deg, #68a7ab, #1a1e33);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    text-align: center;
+.akatsuki-cloud-png-by-chanxgg-icon {
+    position: absolute;
+    top: 25px;
+    left: 15px;
+    width: 19px;
+    height: 15px;
+    object-fit: cover;
+    }
+    .akatsuki-cloud-png-by-chanxgg-icon1 {
+    position: absolute;
+    top: 3px;
+    left: 22px;
+    width: 19px;
+    height: 15px;
+    object-fit: cover;
+    }
+    .akatsuki-cloud-png-by-chanxgg-icon2 {
+    position: absolute;
+    top: 73px;
+    left: 78px;
+    width: 19px;
+    height: 15px;
+    object-fit: cover;
+    }
+    .akatsuki-cloud-png-by-chanxgg-icon3 {
+    position: absolute;
+    top: 59px;
+    left: 5px;
+    width: 19px;
+    height: 15px;
+    object-fit: cover;
+    }
+    .akatsuki-cloud-png-by-chanxgg-icon4 {
+    position: absolute;
+    top: 18px;
+    left: 75px;
+    width: 19px;
+    height: 15px;
+    object-fit: cover;
+    }
+    .akatsuki-cloud-png-by-chanxgg-icon5 {
+    position: absolute;
+    top: 44px;
+    left: 75px;
+    width: 19px;
+    height: 15px;
+    object-fit: cover;
+    }
+    .akatsuki-cloud-png-by-chanxgg-icon6 {
+    position: absolute;
+    top: 60px;
+    left: 59px;
+    width: 19px;
+    height: 15px;
+    object-fit: cover;
+    }
+    .akatsuki-cloud-png-by-chanxgg-icon7 {
+    position: absolute;
+    top: 66px;
+    left: 38px;
+    width: 19px;
+    height: 15px;
+    object-fit: cover;
+    }
+    .akatsuki-cloud-png-by-chanxgg-icon8 {
+    position: absolute;
+    top: 21px;
+    left: 49px;
+    width: 19px;
+    height: 15px;
+    object-fit: cover;
+    }
+    .akatsuki-cloud-png-by-chanxgg-icon9 {
+    position: absolute;
+    top: 42px;
+    left: 17px;
+    width: 19px;
+    height: 15px;
+    object-fit: cover;
+    }
+    .frame-child {
+    position: absolute;
+    top: 25px;
+    left: 25px;
+    border-radius: 50%;
+    background-color: #750000;
+    width: 50px;
+    height: 50px;
+    }
+    .a {
+    position: absolute;
+    top: 0px;
+    left: 0px;
     display: flex;
     align-items: center;
     justify-content: center;
+    width: 100px;
     height: 100px;
-}
-
+    }
+    .akatsuki-cloud-png-by-chanxgg-parent {
+    width: 100%;
+    position: relative;
+    background-color: #16003F;
+    height: 100px;
+    overflow: hidden;
+    text-align: center;
+    font-size: 120px;
+    color: #fff;
+    font-family: 'Kolker Brush';
+    }
+    
+    
 nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 20px 100px;
-    background: #1A1E33;
+    background: #16003F;
     color: white;
 }
 .logo_container{
@@ -34,9 +131,6 @@ nav{
     align-items: center;
 
 }
-.logo_container{
-    color: #68a7ab;
-}
 
 
 nav>ul{
@@ -45,7 +139,10 @@ nav>ul{
 }
 
 nav > ul > li{
-    text-decoration: none;
     padding-left: 10px;
 }
 
+nav > ul > li > a{
+    text-decoration: none;
+    color: white;
+}
