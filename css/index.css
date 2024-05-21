@@ -4,7 +4,87 @@
     box-sizing: border-box;
 }
 
-.frame-child {
+.akatsuki-cloud-png-by-chanxgg-icon {
+    position: absolute;
+    top: 25px;
+    left: 15px;
+    width: 19px;
+    height: 15px;
+    object-fit: cover;
+    }
+    .akatsuki-cloud-png-by-chanxgg-icon1 {
+    position: absolute;
+    top: 3px;
+    left: 22px;
+    width: 19px;
+    height: 15px;
+    object-fit: cover;
+    }
+    .akatsuki-cloud-png-by-chanxgg-icon2 {
+    position: absolute;
+    top: 73px;
+    left: 78px;
+    width: 19px;
+    height: 15px;
+    object-fit: cover;
+    }
+    .akatsuki-cloud-png-by-chanxgg-icon3 {
+    position: absolute;
+    top: 59px;
+    left: 5px;
+    width: 19px;
+    height: 15px;
+    object-fit: cover;
+    }
+    .akatsuki-cloud-png-by-chanxgg-icon4 {
+    position: absolute;
+    top: 18px;
+    left: 75px;
+    width: 19px;
+    height: 15px;
+    object-fit: cover;
+    }
+    .akatsuki-cloud-png-by-chanxgg-icon5 {
+    position: absolute;
+    top: 44px;
+    left: 75px;
+    width: 19px;
+    height: 15px;
+    object-fit: cover;
+    }
+    .akatsuki-cloud-png-by-chanxgg-icon6 {
+    position: absolute;
+    top: 60px;
+    left: 59px;
+    width: 19px;
+    height: 15px;
+    object-fit: cover;
+    }
+    .akatsuki-cloud-png-by-chanxgg-icon7 {
+    position: absolute;
+    top: 66px;
+    left: 38px;
+    width: 19px;
+    height: 15px;
+    object-fit: cover;
+    }
+    .akatsuki-cloud-png-by-chanxgg-icon8 {
+    position: absolute;
+    top: 21px;
+    left: 49px;
+    width: 19px;
+    height: 15px;
+    object-fit: cover;
+    }
+    .akatsuki-cloud-png-by-chanxgg-icon9 {
+    position: absolute;
+    top: 42px;
+    left: 17px;
+    width: 19px;
+    height: 15px;
+    object-fit: cover;
+    }
+    .frame-child {
     position: absolute;
     top: 25px;
     left: 25px;
@@ -23,7 +103,7 @@
     width: 100px;
     height: 100px;
     }
-    .ellipse-parent {
+    .akatsuki-cloud-png-by-chanxgg-parent {
     width: 100%;
     position: relative;
     background-color: #16003F;
@@ -34,6 +114,7 @@
     color: #fff;
     font-family: 'Kolker Brush';
     }
+    
     
 nav{
     display: flex;
